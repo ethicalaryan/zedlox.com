@@ -1,2 +1,2 @@
-# zedlox.com
+# zglox.com
 hotels hostels
